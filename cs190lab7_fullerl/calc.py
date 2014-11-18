@@ -33,14 +33,12 @@ def mult(a, b):
 def div(a, b):
     return a / b
 
-<<<<<<< HEAD
 # Exponent function
 # a -- base
 # b -- power
 def exp(a, b):
     return a ** b
 
-=======
 def dis(a, b):
 	return a % b
 
